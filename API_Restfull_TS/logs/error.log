@@ -1,0 +1,23 @@
+2023-06-21 14:40:54:4054 - [31merror[39m: [31mNão foi possível conectar![39m
+2023-06-21 14:41:33:4133 - [31merror[39m: [31mNão foi possível conectar![39m
+2023-06-21 14:41:37:4137 - [31merror[39m: [31mNão foi possível conectar![39m
+2023-06-21 14:42:13:4213 - [31merror[39m: [31mNão foi possível conectar![39m
+2023-06-21 14:42:16:4216 - [31merror[39m: [31mNão foi possível conectar![39m
+2023-06-21 14:42:52:4252 - [31merror[39m: [31mNão foi possível conectar![39m
+2023-06-21 14:43:41:4341 - [31merror[39m: [31mNão foi possível conectar![39m
+2023-06-21 14:43:59:4359 - [31merror[39m: [31mNão foi possível conectar![39m
+2023-06-21 14:45:20:4520 - [31merror[39m: [31mNão foi possível conectar![39m
+2023-06-21 14:46:26:4626 - [31merror[39m: [31mNão foi possível conectar![39m
+2023-06-21 14:46:51:4651 - [31merror[39m: [31mNão foi possível conectar![39m
+2023-06-21 14:53:34:5334 - [31merror[39m: [31mNão foi possível conectar![39m
+2023-06-21 14:53:52:5352 - [31merror[39m: [31mNão foi possível conectar![39m
+2023-06-21 14:54:02:542 - [31merror[39m: [31mNão foi possível conectar![39m
+2023-06-21 14:54:20:5420 - [31merror[39m: [31mNão foi possível conectar![39m
+2023-06-21 15:26:20:2620 - [31merror[39m: [31mNão foi possível conectar![39m
+2023-06-21 15:26:40:2640 - [31merror[39m: [31mNão foi possível conectar![39m
+2023-06-21 16:49:37:4937 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "64935318c5c098dccf23295" (type string) at path "_id" for model "Movie"[39m
+2023-06-21 16:49:53:4953 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "64935318c5c098dccf23295s" (type string) at path "_id" for model "Movie"[39m
+2023-06-21 16:50:01:501 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "64935318c5c098dccf23295s" (type string) at path "_id" for model "Movie"[39m
+2023-06-21 16:55:52:5552 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "64935318c5c098dccf23295s" (type string) at path "_id" for model "Movie"[39m
+2023-06-21 16:56:03:563 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "64935318c5c098dccf23295s" (type string) at path "_id" for model "Movie"[39m
+2023-06-21 17:10:14:1014 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "64935318c5c098dccf23295s" (type string) at path "_id" for model "Movie"[39m
